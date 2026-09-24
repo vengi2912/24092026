@@ -1,0 +1,2 @@
+Solar Rooftop App — V12
+TNEB/TNPDCL bill-first import with stable parser bootstrap, automatic electricity calculation, mobile-safe workflow, and aligned 5-page quotation PDF.
